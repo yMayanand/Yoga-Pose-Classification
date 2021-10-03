@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:text-recognition-chinese:16.0.0-beta1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d8566cc970c8dda3cffd76c181c0633/jetified-text-recognition-chinese-16.0.0-beta1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b949882b1a8d5ff90f3fcb6102500d48/jetified-text-recognition-chinese-16.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b949882b1a8d5ff90f3fcb6102500d48/jetified-text-recognition-chinese-16.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b949882b1a8d5ff90f3fcb6102500d48/jetified-text-recognition-chinese-16.0.0-beta1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/text-recognition-chinese/16.0.0-beta1/256383df641ad2f2b11c917878f212210485ae56/text-recognition-chinese-16.0.0-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

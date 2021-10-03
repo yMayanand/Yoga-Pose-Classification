@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:text-recognition-bundled-common:16.0.0-beta1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97ca8c9f56eb1a876b7520818e3298d2/jetified-text-recognition-bundled-common-16.0.0-beta1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7cb3965a9302dcddd539fc28deaf359/jetified-text-recognition-bundled-common-16.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7cb3965a9302dcddd539fc28deaf359/jetified-text-recognition-bundled-common-16.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7cb3965a9302dcddd539fc28deaf359/jetified-text-recognition-bundled-common-16.0.0-beta1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/text-recognition-bundled-common/16.0.0-beta1/d1e51f04a4e0b3df1cf1e84e95c5aa758e6ad905/text-recognition-bundled-common-16.0.0-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

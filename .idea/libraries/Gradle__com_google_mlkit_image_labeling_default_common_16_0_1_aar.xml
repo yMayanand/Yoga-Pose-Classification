@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:image-labeling-default-common:16.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31d6ca8f9d8dd771bdb238651d887d99/jetified-image-labeling-default-common-16.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f7a5ad54188f206caa63c1dc18bb105/jetified-image-labeling-default-common-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f7a5ad54188f206caa63c1dc18bb105/jetified-image-labeling-default-common-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f7a5ad54188f206caa63c1dc18bb105/jetified-image-labeling-default-common-16.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/image-labeling-default-common/16.0.1/65aa661ba91f2b91c5356ef5f4ebeb0ff3214eec/image-labeling-default-common-16.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
