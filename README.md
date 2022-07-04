@@ -11,16 +11,13 @@ After installing the app select `LivePreviewActivity`  -> `Pose Detection` and t
 
 Screenshot from App installed on my phone
 
-<div class="row">
-  <div class="column">
-    <img src="wedding.jpg">
-    <img src="rocks.jpg">
-    <img src="falls2.jpg">
-    <img src="paris.jpg">
-    <img src="nature.jpg">
-    <img src="mist.jpg">
-    <img src="paris.jpg">
-  </div>
-  <div class="column">
-  </div>
-</div>
+<p align="center">
+  <img src="images/Screenshot_20220704_151105_com.google.mlkit.vision.demo.jpg" width="250px">
+  <img src="images/Screenshot_20220704_151132_com.google.mlkit.vision.demo.jpg" width="250px">
+  <img src="images/Screenshot_20220704_151151_com.google.mlkit.vision.demo.jpg" width="250px">
+</p>
+
+<p align="center">
+  <img src="images/Screenshot_20220704_151226_com.google.mlkit.vision.demo.jpg" width="300px">
+  <img src="images/Screenshot_20220704_151402.jpg" width="300px" height="635px">
+</p>
